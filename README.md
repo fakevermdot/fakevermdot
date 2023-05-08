@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)]
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -6,9 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakevermdot&label=Profile%20views&color=0e75b6&style=flat" alt="fakevermdot" /> </p>
 
-- 🔭 I’m currently working on **React admin Panel**
+- 🔭 I’m currently working on **React/MERN projects**
 
 - 🌱 I’m currently learning **React, MERN**
+
+- 👯 I’m looking to collaborate on **Software Engineering**
+
+- 🤝 I’m looking for help with **expanding my skills**
 
 - 💬 Ask me about **React, node, tailwindcss**
 
@@ -16,7 +20,7 @@
 
 - 📄 Know about my experiences [https://portfolio-2e3a9.web.app](https://portfolio-2e3a9.web.app)
 
-- ⚡ Fun fact **I Think I am Creative**
+- ⚡ Fun fact **if you can't fly then walk, if you can't walk then crawl, just don't stop going!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
